@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Ho Quoc Khuong<br>🌱 I'm a Computer Science student at HCMUT, specializing in Software Engineering.<br>🔭 I have experience in both frontend and backend development.<br>⚡ Passionate about building scalable and efficient applications!
 
+![](https://komarev.com/ghpvc/?username=Khuongkun48&abbreviated=true&color=yellow)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quockhuong48) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khuongho48) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khuonggm4869@gmail.com) 
